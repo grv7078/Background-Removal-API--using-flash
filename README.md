@@ -1,4 +1,4 @@
-# Background-Removal-API--using-flash
+# Background-Removal-API-using-flash
 
 This is a Flask-based web application that allows users to upload an image, remove its background using the **DeepLabV3 model**, and download the processed image with a white background. The application leverages deep learning models to perform semantic segmentation, specifically the **DeepLabV3 model** from **PyTorch**.
 
